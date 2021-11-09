@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDWork", "CRUDWork\CRUDWork.csproj", "{899A281D-D3BE-4F1C-BC83-076FD344ACED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFramework", "TestFramework\TestFramework.csproj", "{ED9DFCA2-9B01-4AE4-9586-00D384DAC430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899A281D-D3BE-4F1C-BC83-076FD344ACED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899A281D-D3BE-4F1C-BC83-076FD344ACED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899A281D-D3BE-4F1C-BC83-076FD344ACED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899A281D-D3BE-4F1C-BC83-076FD344ACED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9DFCA2-9B01-4AE4-9586-00D384DAC430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9DFCA2-9B01-4AE4-9586-00D384DAC430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9DFCA2-9B01-4AE4-9586-00D384DAC430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9DFCA2-9B01-4AE4-9586-00D384DAC430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034FE3E9-D2AF-4FFC-9873-D73B4B322B35}
+	EndGlobalSection
+EndGlobal
